@@ -1,0 +1,12 @@
+{
+  "type": "ionic1",
+  "name": "Framework7",
+  "app_id": "100",
+  "integrations": {},
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
