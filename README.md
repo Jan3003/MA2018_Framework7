@@ -16,6 +16,7 @@ Framework7 ist jedoch nicht mit allen Plattformen kompatibel. Es ist auf iOS und
    Das Material Theme ist in seiner Art klassisch und da es auf den Google Material Desgin Spezifikationen basiert bietet es perfektes        Design bis auf den Pixel genau.
    
 Weitere Features sind zum Beispiel:
+
 5. Hoch performante Animationen
 6. Hohe Seiten Animationen
 7. Eine klare JavaScript API
