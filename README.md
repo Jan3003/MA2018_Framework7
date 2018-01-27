@@ -2,7 +2,9 @@
 ## Was ist Framework7?
 
 Framework7 ist ein freies und "open source" HTML mobiles Framework um hybride mobile Apps oder Web Apps mithilfe von IOS oder Android (Material) zu entwickeln, die nativ aussehen und sich so anfühlen. Hybride Apps sind im Gegensatz zu nativen plattformunabhängig. Das heißt ein mal entwickelt, laufen die auf allen Plattformen, wie Android, iOS, Windows und so weiter. Entwickelt werden diese mit HTML, CSS und JavaScript. Es ist außerdem ein unersetzbares App Werkzeug, um funktionierende Prototypen der App so früh wie möglich zeigen zu können. Framework7 wurde von Vladimir Kharlampidi (iDangero.us) erstellt. 
+
 Der Hauptansatz von Framework7 ist es die Möglichkeit zu bieten iOS und Android(Material) Apps mit HTML, CSS und JavaScript einfach und übersichtlich zu erstellen. Framework7 bietet vollen Freiraum. Es limitiert nicht die Vorstellungskraft oder gibt Lösungswege vor, sondern gibt dem Entwickler Freiheiten.
+
 Framework7 ist jedoch nicht mit allen Plattformen kompatibel. Es ist auf iOS und Android(Material) fokussiert, um die bestmögliche Nutzererfahrung und Einfachheit zu bieten.
 
 ## Framework7 Features
